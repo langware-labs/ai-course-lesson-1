@@ -1,3 +1,7 @@
+---
+id: f707d6a3-0308-4f9f-bd00-8cdda42c8bd4
+---
+
 # hello-flowpad-task
 
 A starter template. Open it in Flowpad with **Open from git** and you get:
