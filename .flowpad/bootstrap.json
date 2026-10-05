@@ -1,9 +1,0 @@
-{
-  "content_projects": [
-    {
-      "url": "https://github.com/langware-labs/appbuild-helpdesk",
-      "branch": "main",
-      "scope": "shared"
-    }
-  ]
-}

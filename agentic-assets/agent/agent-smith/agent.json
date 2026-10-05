@@ -1,0 +1,14 @@
+{
+  "type": "agent",
+  "id": "2f812af5-1526-4fbf-8771-0ec6b41e0e54",
+  "name": "agent-smith",
+  "version": 2,
+  "title": "Agent Smith",
+  "description": "Builds the app you describe as a single beautiful HTML page you can open right now.",
+  "avatar": "./avatar.png",
+  "worker_type": "claude",
+  "model": "sm",
+  "permission_mode": "bypassPermissions",
+  "load_flowpad_assistant": true,
+  "enabled": true
+}
